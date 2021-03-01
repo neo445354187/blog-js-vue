@@ -1,4 +1,4 @@
-# ES2015 AND VUE
+# ES2015
 
 ## 参考
 - 入门：<http://www.jianshu.com/p/ebfeb687eb70>
@@ -6,9 +6,6 @@
 - 书籍：<https://cn.vuejs.org/v2/guide>
 - 视频：<https://www.bilibili.com/video/BV1Kt411w7MP?p=2>
 
-## todo
-- vue-cli
-- vue.config.js代理，以及配置，如果将配置有效？
 
 
 ## 功能需求
